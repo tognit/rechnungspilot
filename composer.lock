@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1d93405401a000915d7dd91d45a6d41e",
+    "content-hash": "626c285832562ac32b29d7bebe6e1d7b",
     "packages": [
         {
             "name": "ajcastro/eager-load-pivot-relations",
@@ -2086,16 +2086,16 @@
         },
         {
             "name": "nemiah/php-fints",
-            "version": "2.1.0",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nemiah/phpFinTS.git",
-                "reference": "7796f4ad31c3a29b67ababb82904bd8dba00355b"
+                "reference": "9b93d6e9ed407680729d642e1afe79daaa6e704c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nemiah/phpFinTS/zipball/7796f4ad31c3a29b67ababb82904bd8dba00355b",
-                "reference": "7796f4ad31c3a29b67ababb82904bd8dba00355b",
+                "url": "https://api.github.com/repos/nemiah/phpFinTS/zipball/9b93d6e9ed407680729d642e1afe79daaa6e704c",
+                "reference": "9b93d6e9ed407680729d642e1afe79daaa6e704c",
                 "shasum": ""
             },
             "require": {
@@ -2126,7 +2126,7 @@
             ],
             "description": "PHP Library for the protocols fints and hbci",
             "homepage": "https://github.com/nemiah/phpFinTS",
-            "time": "2020-04-10T13:05:55+00:00"
+            "time": "2020-08-17T07:47:18+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -2652,12 +2652,12 @@
             "version": "v1.1.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/nrk/predis.git",
+                "url": "https://github.com/predis/predis.git",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nrk/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
+                "url": "https://api.github.com/repos/predis/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "shasum": ""
             },
@@ -2694,6 +2694,16 @@
                 "nosql",
                 "predis",
                 "redis"
+            ],
+            "funding": [
+                {
+                    "url": "https://www.paypal.me/tillkruss",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/tillkruss",
+                    "type": "github"
+                }
             ],
             "time": "2016-06-16T16:22:20+00:00"
         },
@@ -6624,6 +6634,7 @@
             "keywords": [
                 "tokenizer"
             ],
+            "abandoned": true,
             "time": "2019-09-17T06:23:10+00:00"
         },
         {
